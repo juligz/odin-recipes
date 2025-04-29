@@ -1,3 +1,3 @@
-# Cooking Recipies
+# Italian Cuisine
 
-Cooking Recipies it's a website with a variety of recipies that you can make at home.
+This website contains the best Italian recipies that you can make at home.
